@@ -1,4 +1,3 @@
-pip install nltk
 import nltk
 from nltk.tag import UnigramTagger
 from nltk.corpus import treebank
