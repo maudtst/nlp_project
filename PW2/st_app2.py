@@ -1,5 +1,5 @@
 import nltk
-import nltk.tag
+import nltk.tag 
 from nltk.tag import UnigramTagger
 from nltk.corpus import treebank
 from nltk.corpus import sentiwordnet as swn
