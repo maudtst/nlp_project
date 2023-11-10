@@ -1,6 +1,6 @@
 import nltk
 import nltk.tag 
-from nltk.tag import UnigramTagger
+#from nltk.tag import UnigramTagger
 from nltk.corpus import treebank
 from nltk.corpus import sentiwordnet as swn
 from nltk.tokenize import word_tokenize, sent_tokenize
